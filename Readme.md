@@ -17,7 +17,7 @@ To get started with the Desa Digital project, follow these steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd desa-digital
+    cd Landing-Pages-Desa-Digital-WebApps
     ```
 3. Install the necessary dependencies:
     ```sh
